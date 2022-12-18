@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.outstream.tools</groupId>
+	<artifactId>finances</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>testing</name>
+	<dependencies>
+
+		<!-- https://mvnrepository.com/artifact/com.yahoofinance-api/YahooFinanceAPI -->
+		<dependency>
+			<groupId>com.yahoofinance-api</groupId>
+			<artifactId>YahooFinanceAPI</artifactId>
+			<version>3.17.0</version>
+		</dependency>
+	</dependencies>
+</project>

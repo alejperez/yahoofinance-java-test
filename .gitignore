@@ -1,0 +1,14 @@
+.idea
+*.iws
+*.iml
+*.ipr
+
+.settings/
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+
+.project
+/web/dependency-reduced-pom.xml
+/validation/src/main/generated/
